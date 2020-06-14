@@ -756,7 +756,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="45" Level="0" Mode="1" HWCode="42">
+<KEY ID="45" Level="0" Mode="1" HWCode="67">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
