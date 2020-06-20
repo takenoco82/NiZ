@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <84EC(S)Ble>
 <PredefinedCombo>
-<List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
-<x ID="0" t1="New Combo 1">
-<List SizeOfView="6" ViewStartAt="0" CursorPos="1" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
-<x ID="0" t1="Left Alt">
 <List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
-</x>
-<x ID="1" t1="`">
-<List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
-</x>
-</List>
-</x>
-</List>
 </PredefinedCombo>
 <PredefinedMacro>
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
@@ -1216,47 +1205,47 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="74" Level="0" Mode="7" HWCode="166">
+<KEY ID="74" Level="0" Mode="1" HWCode="81">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="74" Level="1" Mode="7" HWCode="166">
+<KEY ID="74" Level="1" Mode="7" HWCode="153">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="74" Level="2" Mode="7" HWCode="166">
+<KEY ID="74" Level="2" Mode="7" HWCode="153">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="75" Level="0" Mode="1" HWCode="81">
+<KEY ID="75" Level="0" Mode="1" HWCode="69">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="75" Level="1" Mode="7" HWCode="153">
+<KEY ID="75" Level="1" Mode="7" HWCode="155">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="75" Level="2" Mode="7" HWCode="153">
+<KEY ID="75" Level="2" Mode="7" HWCode="155">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="76" Level="0" Mode="1" HWCode="69">
+<KEY ID="76" Level="0" Mode="1" HWCode="91">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="76" Level="1" Mode="7" HWCode="155">
+<KEY ID="76" Level="1" Mode="7" HWCode="166">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="76" Level="2" Mode="7" HWCode="155">
+<KEY ID="76" Level="2" Mode="7" HWCode="166">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1276,32 +1265,32 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="78" Level="0" Mode="1" HWCode="91">
+<KEY ID="78" Level="0" Mode="1" HWCode="74">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="78" Level="1" Mode="7" HWCode="156">
+<KEY ID="78" Level="1" Mode="0" HWCode="156">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="78" Level="2" Mode="7" HWCode="156">
+<KEY ID="78" Level="2" Mode="0" HWCode="156">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="79" Level="0" Mode="1" HWCode="74">
+<KEY ID="79" Level="0" Mode="7" HWCode="156">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="79" Level="1" Mode="0" HWCode="0">
+<KEY ID="79" Level="1" Mode="7" HWCode="156">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="79" Level="2" Mode="0" HWCode="0">
+<KEY ID="79" Level="2" Mode="7" HWCode="156">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
